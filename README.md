@@ -2,7 +2,7 @@
 
 **Shobhit Gautam** | ID: 2022A7PS0136P
 
-**Live Demo**: [https://social-media-content-analyzerunthikablesolutio-production.up.railway.app](https://social-media-content-analyzerunthikablesolutio-production.up.railway.app/)
+**Live Demo**: [https://social-media-content-analyzerfinal-production.up.railway.app](https://social-media-content-analyzerfinal-production.up.railway.app)
 
 A web application that extracts text from uploaded documents — PDFs and images (scanned documents via OCR). Upload files through drag-and-drop or a file picker, and view the extracted text instantly.
 
